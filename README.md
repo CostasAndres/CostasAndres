@@ -22,11 +22,11 @@ Desarrollador Full Stack
 
 ## 📚 Estudios
 
-- Videojuegos y Realidad Virtual: Finish in 2024 
+- Videojuegos y Realidad Virtual: Finalizado en el año 2024 
 <br><br>
-- DAM: Finish in 2023
+- DAM: Finalizado en el año 2023
 <br></br>
-- SMR: Finish in 2021
+- SMR: Finalizado en el año 2021
 
 ## 🎯 Actualmente…
 
