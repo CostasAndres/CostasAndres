@@ -20,8 +20,6 @@ Full Stack Developer
 Actualmente estoy **en búsqueda activa de oportunidades laborales** en desarrollo de software. Me apasiona crear soluciones completas, desde el backend hasta la interfaz de usuario, y seguir aprendiendo tecnologías modernas.
 
 - 🌱 Aprendiendo cosas nuevas cada día.
-- 📫 Si quieres contactar conmigo, escríbeme por correo o LinkedIn.
-
 
 ## Studies
 
@@ -31,8 +29,3 @@ Actualmente estoy **en búsqueda activa de oportunidades laborales** en desarrol
 <br></br>
 **SMR:** Finish in 2021
 ---
-## Contact Me
-¡Estoy abierto a nuevas oportunidades! Si quieres contactarme o colaborar, puedes escribirme en:
-
-- 📧 Correo: [costasandres01@gmail.com](mailto:costasandres01@gmail.com)
-- 🔗 LinkedIn: [Andrés Costas](https://www.linkedin.com/in/andres-costas-moreno-5811452a3/)
