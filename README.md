@@ -1,4 +1,4 @@
-## ABOUT ME
+## Sobre Mi
 
 Full Stack Developer
 <br>
@@ -21,7 +21,7 @@ Actualmente estoy **en búsqueda activa de oportunidades laborales** en desarrol
 - 🌱 Aprendiendo cosas nuevas cada día.
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV6dmRtZ2F0bXIwdTg3a3A5bzhxeDNoZTlwN2gwZnlkMzBzeWt2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" alt="I have no idea what I'm doing" width="300" />
 
-## Studies
+## Estudios
 
 **Videojuegos y Realidad Virtual:** Finish in 2024 
 <br><br>
