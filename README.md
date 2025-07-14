@@ -1,6 +1,6 @@
 ## 📌 Sobre Mi
 
-Full Stack Developer
+Desarrollador Full Stack
 <br>
 
 ¡Hola! Soy **Andrés**, desarrollador Full Stack con experiencia en:
