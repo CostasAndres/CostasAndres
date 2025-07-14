@@ -31,4 +31,3 @@ Full Stack Developer
 ## 🎯 Actualmente…
 
 - Aprendiendo nuevas tecnologías y trabajando en proyectos personales
-- En búsqueda activa de empleo en desarrollo de software
