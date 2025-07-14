@@ -3,7 +3,6 @@
 Full Stack Developer
 <br>
 
-
 ¡Hola! Soy **Andrés**, desarrollador Full Stack con experiencia en:
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -20,6 +19,7 @@ Full Stack Developer
 Actualmente estoy **en búsqueda activa de oportunidades laborales** en desarrollo de software. Me apasiona crear soluciones completas, desde el backend hasta la interfaz de usuario, y seguir aprendiendo tecnologías modernas.
 
 - 🌱 Aprendiendo cosas nuevas cada día.
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV6dmRtZ2F0bXIwdTg3a3A5bzhxeDNoZTlwN2gwZnlkMzBzeWt2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" alt="I have no idea what I'm doing" width="300" />
 
 ## Studies
 
